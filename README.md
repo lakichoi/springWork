@@ -4,14 +4,14 @@
 Spring FrameWork를 활용한 게시판 CRUD와 AJAX/JSON을 활용한 RestAPI 방식의 댓글시스템 구현.
 
 ## B. 구현목록
-- Board
-1.게시판 목록   
+- Board   
+   1.게시판 목록   
 2.게시글 읽기    
 3.게시글 쓰기     
 4.게시글 수정   
 5.게시글 삭제   
 
-- Reply
+- Reply   
 6.댓글 목록   
 7.댓글 읽기   
 8.댓글 쓰기   
