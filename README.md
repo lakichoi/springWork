@@ -22,8 +22,9 @@ Spring FrameWork를 활용한 게시판 CRUD와 AJAX/JSON을 활용한 RestAPI �
 게시판 목록 : 페이지네이션, 검색은 부트스트랩 내장 JS로 처리.   
 ---   
 <br>   
-   
-   
+<br>   
+<br>   
+
 ![BoardCreate](https://user-images.githubusercontent.com/60164218/85234051-d22b0800-b445-11ea-874b-bb30040cb8cb.PNG)   
 게시글 등록 : addFlashAttribute()를 이용하여 중복 등록 방지.   
 ---   
