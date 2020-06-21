@@ -1,7 +1,9 @@
 # springWork
 
 ## A. 개요
-Spring FrameWork를 활용한 게시판 CRUD와 AJAX/JSON을 활용한 RestAPI 방식의 댓글시스템 구현.
+Spring FrameWork를 활용한 게시판 CRUD와 AJAX/JSON을 활용한 RestAPI 방식의 댓글시스템 구현.  
+<br>
+<br>
 
 ## B. 구현목록
 - Board   
