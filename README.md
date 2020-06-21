@@ -21,13 +21,15 @@ Spring FrameWork를 활용한 게시판 CRUD와 AJAX/JSON을 활용한 RestAPI �
 <br>   
 <br>   
 
-- 게시판 목록   
+#게시판 
 ![BoardList](https://user-images.githubusercontent.com/60164218/85234055-d525f880-b445-11ea-91c9-1bedb2c77cde.PNG)   
 게시판 목록 : 페이지네이션, 검색은 부트스트랩 내장 JS로 처리.   
 ---   
 <br>   
 <br>   
 <br>   
+<br>   
+
 ![BoardCreate](https://user-images.githubusercontent.com/60164218/85234051-d22b0800-b445-11ea-874b-bb30040cb8cb.PNG)   
 게시글 등록 : addFlashAttribute()를 이용하여 중복 등록 방지.   
 ---
@@ -35,6 +37,7 @@ Spring FrameWork를 활용한 게시판 CRUD와 AJAX/JSON을 활용한 RestAPI �
 <br>   
 <br>   
 <br>   
+
 ![ModalCreate](https://user-images.githubusercontent.com/60164218/85234250-fd622700-b446-11ea-82b9-da1d52c55167.PNG)   
 알림창 : 등록 성공 Modal창 구현.   
 ---   
@@ -42,6 +45,7 @@ Spring FrameWork를 활용한 게시판 CRUD와 AJAX/JSON을 활용한 RestAPI �
 <br>   
 <br>   
 <br>      
+
 ![BoardRead](https://user-images.githubusercontent.com/60164218/85234056-d5be8f00-b445-11ea-93ad-7ce094083e68.PNG)   
 게시글 읽기 : 게시글 수정 / 리스트로 이동 가능한 버튼 구현   
 ---   
