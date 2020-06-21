@@ -59,7 +59,7 @@ Spring FrameWork를 활용한 게시판 CRUD와 AJAX/JSON을 활용한 RestAPI �
    
 # 게시글 수정  
 ![BoardUpdate](https://user-images.githubusercontent.com/60164218/85234057-d6572580-b445-11ea-9343-ee53e9058fc3.PNG)   
-### UPDATE : 수정완료 / 게시글삭제 / 리스트로 이동 가능한 버튼 구현   
+### UPDATE & DELEET: 수정완료 / 게시글삭제 / 리스트로 이동 가능한 버튼 구현   
 ---   
 <br>   
 <br>   
@@ -86,7 +86,7 @@ Spring FrameWork를 활용한 게시판 CRUD와 AJAX/JSON을 활용한 RestAPI �
 
 # 댓글 읽기  
 ![ReUpdateDelete](https://user-images.githubusercontent.com/60164218/85234061-d7885280-b445-11ea-9389-67c8a87f692b.PNG)   
-### Reply READ : 댓글을 클릭하면 수정, 삭제가능한 Modal창 구현.   
+### Reply READ & UPDATE & DELETE: 댓글을 클릭하면 수정, 삭제가능한 Modal창 구현.   
 ---   
 <br>   
 <br>   
