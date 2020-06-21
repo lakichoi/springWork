@@ -43,7 +43,7 @@ Spring FrameWork를 활용한 게시판 CRUD와 AJAX/JSON을 활용한 RestAPI �
 
 # 알림창  
 ![ModalCreate](https://user-images.githubusercontent.com/60164218/85234250-fd622700-b446-11ea-82b9-da1d52c55167.PNG)   
-### MODAL : 등록 성공 Modal창 구현.   
+### MODAL : 등록 성공 Modal창 구현. (JS if문을 활용하여 수정, 삭제 성공시 다른 Modal 메세지 출력)  
 ---   
 <br>  
 <br>   
