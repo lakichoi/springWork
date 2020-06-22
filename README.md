@@ -1,4 +1,4 @@
-# springWork
+# SpringWork
 
 ## A. 개요
 Spring FrameWork를 활용한 게시판 CRUD와 AJAX/JSON을 활용한 RestAPI 방식의 댓글시스템 구현.  
@@ -104,9 +104,10 @@ Spring FrameWork를 활용한 게시판 CRUD와 AJAX/JSON을 활용한 RestAPI �
   - Eclipse : 2020-03   
   - MySQL : 8.0.20   
   - Spring FrameWork   
+  - Mybatis
   - BootStrap   
   - Git   
-
+ 
 - Language   
   - Java 1.8   
   - SQL   
